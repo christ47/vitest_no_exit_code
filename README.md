@@ -1,0 +1,1 @@
+# vitest_no_exit_code
